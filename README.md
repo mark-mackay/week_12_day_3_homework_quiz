@@ -8,7 +8,7 @@
 
 
 6. Composition would be where we have a thing that contains a sub-thing that deserves to have its own class, there could be many sub-things in the same thing with similar behaviours, for example a car can have an engine, a body, wheels, seats, each of these could be put in different classes of vehicle such as a boat, truck, plane, etc 
-7. When building objects that need to take similar behaviours from multiple different things, we could also use this where we want to group several similar classes for a certain purpose.
+7. When building objects that need to take similar behaviours for multiple different classes, we could also use this where we want to group several similar classes for a certain purpose.
 8. Composition allows you to reuse similar behaviours between several different classes, it also allows you to group &  interrogate the similar features of these classes.
 
 9. 
