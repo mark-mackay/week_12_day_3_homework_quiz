@@ -11,4 +11,4 @@
 7. When building objects that need to take similar behaviours for multiple different classes, we could also use this where we want to group several similar classes for a certain purpose.
 8. Composition allows you to reuse similar behaviours between several different classes, it also allows you to group &  interrogate the similar features of these classes.
 
-9. 
+9. The objects that compose the objects' super class will remain until they too are removed.
